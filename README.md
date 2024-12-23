@@ -1,1 +1,1 @@
-VoiceChat Active/Inactive/Not Installed Placeholder for TAB
+# VoiceChat Active/Inactive/Not Installed Placeholder for TAB and LuckPerms.
